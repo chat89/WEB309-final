@@ -1,9 +1,23 @@
 # Hostel Management System
 
-https://shyamsunder0717.github.io/Hostel-Management-System/
-## Overview
-I am creating only Frontend website for hostel management system but if you want use backend so definitely you will create it. These website are completely uses of Frontend & Backend or storing all the information of students in your database.
-The Hostel Management System is a web-based application designed to streamline the management of hostel facilities. It provides administrators, hostel managers, and residents with tools to manage hostel bookings, room allocations, resident details, and more.
+id and pass
+https://github.com/chat89/WEB309-final.git
+http://localhost/hostel/
+http://localhost/phpmyadmin/
+mehadicool@gmail.com
+1-9 pass
+ 
+Frontend:
+http://localhost/hostel_system/form.html
+
+mehedi
+mehadicool@gmail.com
+B12
+
+Backend:
+
+http://localhost/hostel_system/view.php
+
 
 ## Features
 - **User Authentication**: Secure login and registration system for administrators, hostel managers, and residents.
@@ -16,10 +30,7 @@ The Hostel Management System is a web-based application designed to streamline t
 - **Frontend**: HTML, CSS, JavaScript
   
 ## Creating a Backend & Database so these technologies are use
-- **Backend**: (If applicable, list backend technologies such as Node.js, Express.js, etc.)
-- **Database**: (If applicable, list database technologies such as MySQL, etc.) -- you will create a database for using these method's.
+- **Backend**: php
+- **Database**: MySQL
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hostel-management-system.git
+
